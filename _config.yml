@@ -18,12 +18,12 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts # the main title
+title: HN-RG # the main title
 
-tagline: Max Planck Institute for Security and Privacy # it will display as the sub-title
+tagline: Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts @ MPI-SP # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blockchain security research group focus on formal methods.
+  Blockchain security research group with focus on formal methods.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://hn-rg.github.io"
@@ -31,18 +31,22 @@ url: "https://hn-rg.github.io"
 github:
   username: hn-rg # change to your github username
 
-twitter:
- username: twitter_username # change to your twitter username
+#twitter:
+# username: twitter_username # change to your twitter username
+
+mpi: 
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Max Planck Institute for Security and Privacy - Imprint
+  email: clara.schneidewind@mpi-sp.org # change to your email address
+  mpi: mpi-sp.org
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://www.mpi-sp.org/2910/imprint
+    - https://github.com/hn-rg # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -70,17 +74,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: /assets/img
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /minerva.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
