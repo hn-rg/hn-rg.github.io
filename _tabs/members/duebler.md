@@ -17,11 +17,11 @@ Besides my university education I gained profound practical experience in algori
 
 |Year|Publication|Link|
 |----|-----------|----|
-|2022| Data Quality in Data Ecosystems: Towards a Design Theory | https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3 |
-|2020|  Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines | https://doi.org/10.1016/j.promfg.2020.10.057 |
+|2022| Data Quality in Data Ecosystems: Towards a Design Theory | [https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3](https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3) |
+|2020|  Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines | [https://doi.org/10.1016/j.promfg.2020.10.057](https://doi.org/10.1016/j.promfg.2020.10.057) |
 
 ## Contact
 
 | - | - |
 | E-mail: | [stephan.duebler@mpi-sp.org](mailto:stephan.duebler@mpi-sp.org)
-| LinkedIn: | https://www.linkedin.com/in/stephan-d%C3%BCbler-756b94247
+| LinkedIn: | [https://www.linkedin.com/in/stephan-d%C3%BCbler-756b94247](https://www.linkedin.com/in/stephan-d%C3%BCbler-756b94247)
