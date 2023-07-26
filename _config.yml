@@ -39,13 +39,13 @@ mpi:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Max Planck Institute for Security and Privacy - Imprint
+  name: Max Planck Institute for Security and Privacy
   email: clara.schneidewind@mpi-sp.org # change to your email address
   mpi: mpi-sp.org
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://www.mpi-sp.org/2910/imprint
+    - https://www.mpi-sp.org/
     - https://github.com/hn-rg # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
