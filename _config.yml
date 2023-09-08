@@ -18,7 +18,8 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HN-RG # the main title
+title: Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts # the main title
+shorttitle: HN-RG
 
 tagline: Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts @ MPI-SP # it will display as the sub-title
 
