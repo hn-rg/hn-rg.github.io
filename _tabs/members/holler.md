@@ -15,7 +15,7 @@ My main research topic is smart contract security, focussing on understanding an
 
 |Year|Publication|
 |----|-----------|
-|2023|  Sebastian Holler, Sebastian Biewer, Clara Schneidewind <br>**HoRStify: Sound Security Analysis of Smart Contracts** <br> <a href="https://doi.ieeecomputersociety.org/10.1109/CSF57540.2023.00023" target="_blank">CSF 2013</a>, <a href="https://arxiv.org/abs/2301.13769" target="_blank">Full version</a>|
+|2023|  Sebastian Holler, Sebastian Biewer, Clara Schneidewind <br>**HoRStify: Sound Security Analysis of Smart Contracts** <br> <a href="https://doi.ieeecomputersociety.org/10.1109/CSF57540.2023.00023" target="_blank">CSF 2023</a>, <a href="https://arxiv.org/abs/2301.13769" target="_blank">Full version</a>|
 
 
 ## Teaching

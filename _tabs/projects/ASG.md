@@ -1,13 +1,54 @@
 ---
 icon: fa-solid fa-person
 permalink: /projects/ASG/
-title: Atomic Swap Graphs
+title: Atomic Transfer Graphs
 type: project
 order: 0 # Technical reasons
 ---
 
-In this project we develop a framework to safely enable multi-party asset swaps across multiple blockchain based systems. 
-The current state has been presented at [FCS23](https://squera.github.io/fcs23/) in the form of a [workshop paper](https://hn-rg.github.io/FCS_2023_Workshop.pdf). 
+In this project we developed a secure-by-design framework for multi-party asset swaps across heterogeneous Blockchain Ecosystems. 
 
 ## Abstract
-Atomic swaps enable two users holding assets in different cryptocurrencies to safely exchange them without relying on a trusted third party. Recent works have extended this idea to swap graphs, describing exchanges of assets between multiple users that should be executed atomically. In this work, we observe that the notion of swap graphs can be generalized to describe a broader class of interesting blockchain protocols, which rely on atomic transaction execution. Following this observation, we broaden the class of swap graphs considered in prior work and define a new protocol for securely realizing such graphs from more general primitives. The resulting class of graphs is expressive enough to capture existing multi-party blockchain protocols such as multi-hop payments and crowdfunding.
+The heterogeneity of the blockchain landscape has
+motivated the design of blockchain protocols tailored to specific
+blockchains and applications that, hence, require custom security
+proofs. We observe that many blockchain protocols share common security and functionality goals, which can be captured by
+an atomic transfer graph (ATG) describing the structure of desired
+transfers. Based on this observation, we contribute a framework
+for generating secure-by-design protocols that realize these goals.
+The resulting protocols build upon Conditional Timelock Contracts (CTLCs), a novel minimal smart contract functionality
+that can be implemented in a large variety of cryptocurrencies
+with a restricted scripting language (e.g., Bitcoin), and payment
+channels. We show how ATGs, in addition to enabling novel
+applications, capture the security and functionality goals of
+existing applications, including many examples from payment
+channel networks and complex multi-party cross-currency swaps
+among Ethereum-style cryptocurrencies. Our framework is the
+first to provide generic and provably secure protocols for all
+these use cases while matching or improving the performance of
+existing use-case-specific protocols.
+
+## Implementation Code
+Now at <a href="https://github.com/hn-rg/CTLC-Implementation" target="_blank">GitHub</a>!
+
+## Publications
+- Research Paper to be presented at [IEEE CSF 2025](https://csf2025.ieee-security.org/) in Santa Cruz, CA, USA.
+- [Short version](https://hn-rg.github.io/FCS_2023_Workshop.pdf) presented at [FCS 2023](https://squera.github.io/fcs23/) in Dubrovnik, Croatia.
+- Full Version with technical details at arXiv (coming soon)
+
+### Citation
+```
+@inproceedings{duebler2024atomictransfergraphs,
+  title={Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems},
+  author={Dübler, Stephan and Badaloni, Federico and Moreno-Sanchez, Pedro and Schneidewind, Clara},
+  booktitle={2025 IEEE 38th Computer Security Foundations Symposium (CSF)},
+  <!--- pages={},-->
+  year={2025},
+  organization={IEEE Computer Society}
+}
+```
+
+
+
+
+

@@ -15,11 +15,18 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Publications
 
-|Year|Publication|Link|
-|----|-----------|----|
-|2025| Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems | coming soon |
-|2022| Data Quality in Data Ecosystems: Towards a Design Theory | [https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3](https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3) |
-|2020| Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines | [https://doi.org/10.1016/j.promfg.2020.10.057](https://doi.org/10.1016/j.promfg.2020.10.057) |
+|Year|Publication|
+|----|-----------|
+|2025| Stephan Dübler, Federico Badaloni, Pedro Moreno-Sanchez, Clara Schneidewind 
+ <br>**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems** 
+ <br> Link coming soon <!--- <a href="https://doi.ieeecomputersociety.org/10.1109/CSF57540.2023.00023" target="_blank">CSF 2013</a>, <a href="https://arxiv.org/abs/2301.13769" target="_blank">Full version</a> -->| 
+|2022| Marcel Altendeitering, Stephan Dübler, Tobias Moritz Guggenberger
+ <br>**Data Quality in Data Ecosystems: Towards a Design Theory** 
+ <br> <a href="https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3" target="_blank">AMCIS 2022</a> | 
+|2020| Marcel Altendeitering, Stephan Dübler
+ <br>**Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines** 
+ <br> <a href="https://doi.org/10.1016/j.promfg.2020.10.057" target="_blank">Procedia Manufacturing 2020</a> |
+
 
 ## Contact
 
