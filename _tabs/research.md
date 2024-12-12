@@ -10,5 +10,5 @@ order: 2
 
 # Completed Projects
 
-## [Atomic Transfer Graphs](/projects/ASG)
+## [Atomic Transfer Graphs](/projects/ATG)
 ## [HoRStify](/projects/horstify)
