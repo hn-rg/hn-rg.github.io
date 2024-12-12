@@ -17,7 +17,7 @@ Besides my university education, I gained profound practical experience in algor
 
 |Year|Publication|Link|
 |----|-----------|----|
-|2025| Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems | soon |
+|2025| Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems | coming soon |
 |2022| Data Quality in Data Ecosystems: Towards a Design Theory | [https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3](https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3) |
 |2020| Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines | [https://doi.org/10.1016/j.promfg.2020.10.057](https://doi.org/10.1016/j.promfg.2020.10.057) |
 
