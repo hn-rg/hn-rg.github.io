@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-person
-permalink: /projects/ASG/
+permalink: /projects/ATG/
 title: Atomic Transfer Graphs
 type: project
 order: 0 # Technical reasons
