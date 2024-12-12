@@ -24,5 +24,6 @@ Besides my university education, I gained profound practical experience in algor
 ## Contact
 
 | - | - |
-| E-mail: | [stephan.duebler@mpi-sp.org](mailto:stephan.duebler@mpi-sp.org)
-| LinkedIn: | [https://www.linkedin.com/in/stephan-d%C3%BCbler-756b94247](https://www.linkedin.com/in/stephan-d%C3%BCbler-756b94247)
+| E-mail: | [stephan.duebler@mpi-sp.org](mailto:stephan.duebler@mpi-sp.org) |
+| LinkedIn: | [Link](https://www.linkedin.com/in/stephan-d%C3%BCbler-756b94247) |
+| GoogleScholar: | [Link](https://scholar.google.com/citations?hl=en&user=XPsccF0AAAAJ) |

@@ -42,7 +42,7 @@ Now at <a href="https://github.com/hn-rg/CTLC-Implementation" target="_blank">Gi
   title={Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems},
   author={Dübler, Stephan and Badaloni, Federico and Moreno-Sanchez, Pedro and Schneidewind, Clara},
   booktitle={2025 IEEE 38th Computer Security Foundations Symposium (CSF)},
-  <!--- pages={},-->
+  pages={},
   year={2025},
   organization={IEEE Computer Society}
 }

@@ -11,7 +11,7 @@ order: 1
     {% endif %}
 {% endfor %}
 
-## PhDs
+## PhD Students
 
 
 {% for a in site.tabs %}
