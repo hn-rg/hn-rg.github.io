@@ -23,7 +23,7 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Presentations
 
-- Generalized Swap Graphs for Blockchain Protocols: <br> Workshop paper presentation at FCS'23
+- **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at FCS'23
                                                     <br> Invitede Talk aqt IMDEA Software Institute, Madrid Spain
 
 ## Teaching
@@ -40,11 +40,11 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Short CV
 
-- Since 2023: PhD Student at Max Planck Institute for Security and Privacy / Ruhr-University Bochum
+- Since 2023: **PhD Student** at Max Planck Institute for Security and Privacy / Ruhr-University Bochum
 - 10/2022 - 12/2022: Research fellow at Fraunhofer Institute for Software and Systems Engineering
-- 10/2020 - 09/2022: M.Sc. in Mathematics at Ruhr-University Bochum
+- 10/2020 - 09/2022: **M.Sc.** in Mathematics at Ruhr-University Bochum
     - 10/2020 - 09/2022: Working Student at Fraunhofer Institute for Software and Systems Engineering
-- 10/2017 - 09/2020: B.Sc. in Mathematics at Ruhr-University Bochum
+- 10/2017 - 09/2020: **B.Sc.** in Mathematics at Ruhr-University Bochum
     - 08/2019 - 09/2019: Internship at Fraunhofer Institute for Software and Systems Engineering
 
 ## Contact
