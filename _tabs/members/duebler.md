@@ -21,6 +21,18 @@ Besides my university education, I gained profound practical experience in algor
 |2022| Marcel Altendeitering, Stephan Dübler, Tobias Moritz Guggenberger <br>**Data Quality in Data Ecosystems: Towards a Design Theory** <br> <a href="https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3" target="_blank">AMCIS 2022</a> | 
 |2020| Marcel Altendeitering, Stephan Dübler <br>**Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines** <br> <a href="https://doi.org/10.1016/j.promfg.2020.10.057" target="_blank">Procedia Manufacturing 2020</a> |
 
+## Presentations
+
+## Teaching
+
+## Scientific Service
+
+## Awards
+
+## Short CV
+
+- 2013 - 2016: B.Sc. in Mathematics at Ruhr-University Bochum
+
 ## Contact
 
 | - | - |
