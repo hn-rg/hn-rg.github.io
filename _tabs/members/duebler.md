@@ -31,7 +31,9 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Short CV
 
-- 2013 - 2016: B.Sc. in Mathematics at Ruhr-University Bochum
+Since 2023: PhD Student at Max Planck Institute for Security and Privacy / Ruhr-University Bochum
+- 2020 - 2022: M.Sc. in Mathematics at Ruhr-University Bochum
+- 2017 - 2020: B.Sc. in Mathematics at Ruhr-University Bochum
 
 ## Contact
 
