@@ -8,7 +8,7 @@ order: 0 # Technical reasons
 
 
 Since January 2023 I have been a PhD Student at the Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts at MPI-SP.
-I am interested in the theoretical foundations for blockchain-based distributed applications. With a strong background in mathematics, I am especially concerned with provable security guarantees.
+I am interested in the theoretical foundations of blockchain-based distributed applications. With a strong background in mathematics, I am especially concerned with provable security guarantees.
 
 Prior to MPI-SP, I completed my Bachelor's (2020) and Master's Degree (2022) in Mathematics at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en). 
 Besides my university education, I gained profound practical experience in algorithm design and data science by working at the [Fraunhofer Institute for Software and Systems Engineering](https://www.isst.fraunhofer.de/en.html) as a working student. 
@@ -23,7 +23,7 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Presentations
 
-- **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at FCS'23
+- **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at FCS 2023
                                                     <br> Invited Talk at IMDEA Software Institute, Madrid Spain (11/2023)
 
 ## Teaching
