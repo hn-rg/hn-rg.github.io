@@ -23,11 +23,20 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Presentations
 
+- Generalized Swap Graphs for Blockchain Protocols: <br> Workshop paper presentation at FCS'23
+                                                    <br> Invitede Talk aqt IMDEA Software Institute, Madrid Spain
+
 ## Teaching
+
+- Student TA: Mathematics Preparatory Course at Ruhr-University Bochum (2018)
 
 ## Scientific Service
 
+- External Reviewer: IEEE Transactions on Information Forensics & Security (Since 2025)
+
 ## Awards
+
+- Scholarship: Deutschlandstipendium supported by Ruth and Gert Massenberg-Foundation, Sensolytics GmbH (2018 - 2022)
 
 ## Short CV
 
