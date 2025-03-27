@@ -17,14 +17,14 @@ Besides my university education, I gained profound practical experience in algor
 
 |Year|Publication|
 |----|-----------|
-|2025| Stephan Dübler, Federico Badaloni, Pedro Moreno-Sanchez, Clara Schneidewind <br>**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems** <br> <a href="https://arxiv.org/abs/2501.17786" target="_blank">arXiv</a> <!--- <a href="https://doi.ieeecomputersociety.org/10.1109/CSF57540.2023.00023" target="_blank">CSF 2013</a> -->| 
+|2025| Stephan Dübler, Federico Badaloni, Pedro Moreno-Sanchez, Clara Schneidewind <br>**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems** <br> <a href="https://arxiv.org/abs/2501.17786" target="_blank">arXiv</a> , CSF 2025<!--- <a href="https://doi.ieeecomputersociety.org/10.1109/CSF57540.2023.00023" target="_blank">CSF 2013</a> -->| 
 |2022| Marcel Altendeitering, Stephan Dübler, Tobias Moritz Guggenberger <br>**Data Quality in Data Ecosystems: Towards a Design Theory** <br> <a href="https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3" target="_blank">AMCIS 2022</a> | 
 |2020| Marcel Altendeitering, Stephan Dübler <br>**Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines** <br> <a href="https://doi.org/10.1016/j.promfg.2020.10.057" target="_blank">Procedia Manufacturing 2020</a> |
 
 ## Presentations
 
 - **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at FCS'23
-                                                    <br> Invitede Talk aqt IMDEA Software Institute, Madrid Spain
+                                                    <br> Invited Talk at IMDEA Software Institute, Madrid Spain
 
 ## Teaching
 
@@ -40,11 +40,15 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Short CV
 
-- Since 2023: **PhD Student** at Max Planck Institute for Security and Privacy / Ruhr-University Bochum
+- Since 2023: **PhD Candidate** at Max Planck Institute for Security and Privacy / Ruhr-University Bochum <br> Supervised by **Dr. Clara Schneidewind** and **Prof. Dr. Gilles Barthe**
 - 10/2022 - 12/2022: Research fellow at Fraunhofer Institute for Software and Systems Engineering
 - 10/2020 - 09/2022: **M.Sc.** in Mathematics at Ruhr-University Bochum
+    - M.Sc. Thesis: Morse theory and Morse homology - Construction and application
+    <br> Supervised by **Prof. Dr. Barney Bramham** and **Prof. Dr. Alberto Abbondandolo** (Symplectic geometry group)
     - 10/2020 - 09/2022: Working Student at Fraunhofer Institute for Software and Systems Engineering
 - 10/2017 - 09/2020: **B.Sc.** in Mathematics at Ruhr-University Bochum
+    - B.Sc. Thesis: Generalization of the Theorem by Serre and Swan using Differential operators
+    <br> Supervised by **Prof. Dr. Gerd Laures** and **Prof. Dr. Björn Schuster** (Chair of Topology)
     - 08/2019 - 09/2019: Internship at Fraunhofer Institute for Software and Systems Engineering
 
 ## Contact
