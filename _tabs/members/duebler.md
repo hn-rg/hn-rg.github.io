@@ -24,7 +24,7 @@ Besides my university education, I gained profound practical experience in algor
 ## Presentations
 
 - **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at FCS'23
-                                                    <br> Invited Talk at IMDEA Software Institute, Madrid Spain
+                                                    <br> Invited Talk at IMDEA Software Institute, Madrid Spain (11/2023)
 
 ## Teaching
 
@@ -40,15 +40,15 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Short CV
 
-- Since 2023: **PhD Candidate** at Max Planck Institute for Security and Privacy / Ruhr-University Bochum <br> Supervised by **Dr. Clara Schneidewind** and **Prof. Dr. Gilles Barthe**
+- Since 01/2023: **PhD Candidate** at Max Planck Institute for Security and Privacy / Ruhr-University Bochum <br> Supervised by **Dr. Clara Schneidewind** and **Prof. Dr. Gilles Barthe**
 - 10/2022 - 12/2022: Research fellow at Fraunhofer Institute for Software and Systems Engineering
 - 10/2020 - 09/2022: **M.Sc.** in Mathematics at Ruhr-University Bochum
     - M.Sc. Thesis: Morse theory and Morse homology - Construction and application
-    <br> Supervised by **Prof. Dr. Barney Bramham** and **Prof. Dr. Alberto Abbondandolo** (Symplectic geometry group)
+    <br> Supervised by **Prof. Dr. Barney Bramham** and **Prof. Dr. Alberto Abbondandolo** <br>(Symplectic geometry group)
     - 10/2020 - 09/2022: Working Student at Fraunhofer Institute for Software and Systems Engineering
 - 10/2017 - 09/2020: **B.Sc.** in Mathematics at Ruhr-University Bochum
     - B.Sc. Thesis: Generalization of the Theorem by Serre and Swan using Differential operators
-    <br> Supervised by **Prof. Dr. Gerd Laures** and **Prof. Dr. Björn Schuster** (Chair of Topology)
+    <br> Supervised by **Prof. Dr. Gerd Laures** and **Prof. Dr. Björn Schuster** <br>(Chair of Topology)
     - 08/2019 - 09/2019: Internship at Fraunhofer Institute for Software and Systems Engineering
 
 ## Contact
