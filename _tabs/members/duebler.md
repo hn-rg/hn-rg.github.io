@@ -32,6 +32,7 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Scientific Service
 
+- External Reviewer: The Science of Blockchain Conference 2025 (SBC'25)
 - External Reviewer: IEEE Transactions on Information Forensics & Security (Since 2025)
 
 ## Awards
