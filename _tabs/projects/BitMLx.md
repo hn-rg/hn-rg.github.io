@@ -13,6 +13,6 @@ The limited scripting capabilities in Bitcoin-like cryptocurrencies have forced 
 
 ## Dowloads
 
-FCS 2023 [short paper](../../downloads/BitMLx-137.pdf) and [slides](../../downloads/BitMLx_slides_FCS23.pdf).
+Extended version [paper](https://arxiv.org/abs/2501.17733) and CSF 2025 [slides](../../downloads/BitMLx_slides.pdf).
 
 Compiler PoC [in GitHub](https://github.com/hn-rg/BitMLx).
