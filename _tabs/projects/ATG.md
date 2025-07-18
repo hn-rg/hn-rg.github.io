@@ -31,7 +31,7 @@ existing use-case-specific protocols.
 ## Publications
 - [Research Paper](https://www.computer.org/csdl/proceedings-article/csf/2025/108100a016/26w6qFVNMfS) presented at [CSF 2025](https://csf2025.ieee-security.org/) in Santa Cruz, CA, USA
 - [Short version](https://hn-rg.github.io/FCS_2023_Workshop.pdf) presented at [FCS 2023](https://squera.github.io/fcs23/) in Dubrovnik, Croatia
-- [Extended Version](https://arxiv.org/abs/2501.17786) including all technical details at arXiv 
+- [Extended Version](https://arxiv.org/abs/2501.17786) including all technical details on arXiv 
 
 ## Implementation Code
 Now at <a href="https://github.com/hn-rg/CTLC-Implementation" target="_blank">GitHub</a>!
