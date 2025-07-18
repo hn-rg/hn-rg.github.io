@@ -17,15 +17,19 @@ Besides my university education, I gained profound practical experience in algor
 
 |Year|Publication|
 |----|-----------|
-|2025| Stephan Dübler, Federico Badaloni, Pedro Moreno-Sanchez, Clara Schneidewind <br>**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems** <br> <a href="https://arxiv.org/abs/2501.17786" target="_blank">arXiv</a> , <a href="https://www.computer.org/csdl/proceedings-article/csf/2025/108100a016/26w6qFVNMfS" target="_blank">CSF 2025</a> | 
+|2025| Stephan Dübler, Federico Badaloni, Pedro Moreno-Sanchez, Clara Schneidewind <br>**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems** <br> <a href="https://www.computer.org/csdl/proceedings-article/csf/2025/108100a016/26w6qFVNMfS" target="_blank">CSF 2025</a> , <a href="https://arxiv.org/abs/2501.17786" target="_blank">arXiv</a> | 
 |2022| Marcel Altendeitering, Stephan Dübler, Tobias Moritz Guggenberger <br>**Data Quality in Data Ecosystems: Towards a Design Theory** <br> <a href="https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3" target="_blank">AMCIS 2022</a> | 
 |2020| Marcel Altendeitering, Stephan Dübler <br>**Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines** <br> <a href="https://doi.org/10.1016/j.promfg.2020.10.057" target="_blank">Procedia Manufacturing 2020</a> |
 
 ## Presentations
 
+- **Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems:** <br> Paper presentation at CSF 2025
+                                                    <br> Invited Talk at VISA Research, San Francisco, CA USA (06/2025)
+
 - **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at FCS 2023
                                                     <br> Invited Talk at IMDEA Software Institute, Madrid Spain (11/2023)
 
+                                                    
 ## Teaching
 
 - Student TA: Mathematics Preparatory Course at Ruhr-University Bochum (2018)
