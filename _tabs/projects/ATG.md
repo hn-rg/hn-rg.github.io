@@ -34,7 +34,7 @@ existing use-case-specific protocols.
 - [Extended Version](https://arxiv.org/abs/2501.17786) including all technical details on arXiv 
 
 ## Implementation Code
-Now at <a href="https://github.com/hn-rg/CTLC-Implementation" target="_blank">GitHub</a>!
+Now on <a href="https://github.com/hn-rg/CTLC-Implementation" target="_blank">GitHub</a>!
 
 ### Citation
 ```
