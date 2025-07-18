@@ -7,10 +7,10 @@ order: 0 # Technical reasons
 ---
 
 
-Since January 2023 I have been a PhD Student at the Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts at MPI-SP.
-I am interested in the theoretical foundations and formal methods for distributed systems. With a strong background in mathematics, I am especially concerned with provable security guarantees.
+Since January 2023 I have been a PhD Student at the Heinz Nixdorf Research Group for Cryptocurrencies and Smart Contracts at the Max Planck Institute for Security and Privacy (MPI-SP).
+I am interested in formal methods and the theoretical foundations of distributed systems as well as microarchitectural security. With a background in mathematics, I am especially concerned with provable security guarantees.
 
-Prior to MPI-SP, I completed my Bachelor's (2020) and Master's Degree (2022) in Mathematics at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en). 
+Prior to my work at MPI-SP, I completed my Bachelor's (2020) and Master's Degree (2022) in Mathematics at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en). 
 Besides my university education, I gained profound practical experience in algorithm design and data science during my work at the [Fraunhofer Institute for Software and Systems Engineering](https://www.isst.fraunhofer.de/en.html).
 
 ## Publications
