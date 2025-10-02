@@ -17,6 +17,8 @@ Besides my university education, I gained profound practical experience in algor
 
 |Year|Publication|
 |----|-----------|
+|2026| Sebastian Holler, Anna Piscitelli, Jannik Albrecht, Stephan Dübler, Ghassan Karame, Clara Schneidewind <br>**Don’t let them stack the deck against you: Proving smart contracts robust
+against frontrunning attacks** <br> Under submission | 
 |2025| Stephan Dübler, Federico Badaloni, Pedro Moreno-Sanchez, Clara Schneidewind <br>**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems** <br> <a href="https://www.computer.org/csdl/proceedings-article/csf/2025/108100a016/26w6qFVNMfS" target="_blank">CSF 2025</a> , <a href="https://arxiv.org/abs/2501.17786" target="_blank">arXiv</a> | 
 |2022| Marcel Altendeitering, Stephan Dübler, Tobias Moritz Guggenberger <br>**Data Quality in Data Ecosystems: Towards a Design Theory** <br> <a href="https://aisel.aisnet.org/amcis2022/DataEcoSys/DataEcoSys/3" target="_blank">AMCIS 2022</a> | 
 |2020| Marcel Altendeitering, Stephan Dübler <br>**Scalable Detection of Concept Drift: A Learning Technique Based on Support Vector Machines** <br> <a href="https://doi.org/10.1016/j.promfg.2020.10.057" target="_blank">Procedia Manufacturing 2020</a> |
