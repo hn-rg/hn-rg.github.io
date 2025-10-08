@@ -24,7 +24,7 @@ Besides my university education, I gained profound practical experience in algor
 
 ## Presentations
 
-- **Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems:** <br> Paper presentation at CSF 2025, Santa Cruz, CA, USA
+- **Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems:** <br> Paper presentation at IEEE Computer Security Foundations Symposium (CSF 2025), Santa Cruz, CA, USA
                                                     <br> Invited Talk at VISA Research, San Francisco, CA, USA (06/2025)
 
 - **Generalized Swap Graphs for Blockchain Protocols:** <br> Workshop paper presentation at Foundations of Computer Security (FCS 2023, affiliated with CSF 2023), Dubrovnik, Croatia
