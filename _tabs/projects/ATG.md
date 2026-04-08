@@ -1,7 +1,7 @@
 ---
 icon: fa-solid fa-person
 permalink: /projects/ATG/
-title: Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems
+title: Atomic Transfer Graphs - Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems
 type: project
 order: 0 # Technical reasons
 ---
