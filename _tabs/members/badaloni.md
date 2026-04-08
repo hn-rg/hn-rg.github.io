@@ -18,6 +18,7 @@ I'm also interested in applications of smart contracts to the administration of 
 
 |Year|Publication|Link|
 |----|-----------|----|
+|2025| Bitmlx: Secure cross-chain smart contracts for bitcoin-style cryptocurrencies | [Download](https://arxiv.org/pdf/2501.17733) |
 |2021| Velocidad de convergencia de juego ficticio simultáneo y alternante | [Download (in spanish)](https://50jaiio.sadio.org.ar/pdfs/siiio/SIIIO-01.pdf) |
 
 
